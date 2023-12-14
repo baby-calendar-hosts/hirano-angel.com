@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5c0f6c18d3c9766ec2e5d100870ba85e",
+    "content-hash": "ea5ef1a0373eb86f183c1847702fd32f",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -2449,6 +2449,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/seo-simple-pack/"
+        },
+        {
+            "name": "wpackagist-plugin/smart-custom-fields",
+            "version": "4.2.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/smart-custom-fields/",
+                "reference": "tags/4.2.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/smart-custom-fields.4.2.2.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/smart-custom-fields/"
         },
         {
             "name": "wpackagist-plugin/tablepress",

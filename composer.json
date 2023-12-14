@@ -214,6 +214,7 @@
     "wpackagist-plugin/my-calendar": "*",
     "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
+    "wpackagist-plugin/smart-custom-fields": "*",
     "wpackagist-plugin/tablepress": "*",
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-dashboard-notes": "*",
